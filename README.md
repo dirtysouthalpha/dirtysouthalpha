@@ -33,9 +33,9 @@ none of it in the cloud. the useful pieces ship here.
 |---|---|
 | **[intel-arc-llm-stack](https://github.com/dirtysouthalpha/intel-arc-llm-stack)** | run any LLM locally on Intel Arc. the stack i wish existed. |
 | **[muse-maestro](https://github.com/dirtysouthalpha/muse-maestro)** | guardrails, memory & cost telemetry for Meta's Muse Code agent. |
-| **[sentinel-cli](https://github.com/dirtysouthalpha/sentinel-cli)** | multi-provider AI coding agent with smart model routing. |
+| **[sentinel-code](https://github.com/dirtysouthalpha/sentinel-code)** | multi-provider AI coding agent with smart model routing. |
 | **[intel-arc-llm-benchmarks](https://github.com/dirtysouthalpha/intel-arc-llm-benchmarks)** | real, production-tested inference numbers on the Arc B60. |
-| **[msptier3toolkit](https://github.com/dirtysouthalpha/msptier3toolkit)** | battle-tested PowerShell from real MSP helpdesk ops. |
+| **[msp-tier3-toolkit](https://github.com/dirtysouthalpha/msp-tier3-toolkit)** | battle-tested PowerShell from real MSP helpdesk ops. |
 
 ### `// live`
 
@@ -62,3 +62,6 @@ open-source the parts worth sharing.
 ---
 
 <p align="center"><sub><b>self-hosted AI</b> · <b>security-first</b> · <b>always innovating</b> — every repo shares one identity (<a href="BRAND.md">brand kit</a>)</sub></p>
+
+---
+<p align="center"><sub><b>Dirty South Alpha™</b> · © 2026 · <a href="https://dirtysouthalpha.com">dirtysouthalpha.com</a> · self-hosted AI · security-first</sub></p>
