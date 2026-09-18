@@ -1,40 +1,44 @@
-## Hey, I'm Brandon 👋
+<p align="center">
+  <img src="assets/banner.svg" alt="DIRTY SOUTH ALPHA — Self-hosted AI · Security-first · Always innovating">
+</p>
 
-I build practical AI infrastructure — local LLM serving, coding agents, and automation — and
-document the sharp edges so other people don't have to relearn them the hard way.
+<p align="center">
+  <strong>Self-hosted AI. Security-first. Always innovating.</strong>
+</p>
 
-Most of what I ship starts as a real problem on my own hardware (an Intel Arc B60 box, a
-Windows fleet, an MSP helpdesk) and gets cleaned up into something anyone can pick up.
+---
 
-### 🔦 Featured projects
+20+ years in cybersecurity, now running a self-hosted AI fleet on budget Intel Arc
+hardware — a memory brain, autonomous agents, local LLMs that actually ship. I
+open-source the good parts. Always innovating. Deep South.
 
-**[intel-arc-llm-stack](https://github.com/dirtysouthalpha/intel-arc-llm-stack)** — Run any LLM
-(Gemma, Qwen3 MoE, gpt-oss, vision *and* audio) locally on an Intel Arc GPU. One command, one
-OpenAI-compatible endpoint, on-demand model swap. The Arc LLM stack I wish had existed.
+### 🧭 About
 
-**[intel-arc-llm-benchmarks](https://github.com/dirtysouthalpha/intel-arc-llm-benchmarks)** —
-Real, measured inference numbers on Intel Arc (Battlemage B60). Measured tok/s, quantization
-recipes, MoE-vs-dense data — not synthetic claims.
+**Dirty South Alpha** — a one-person AI infrastructure shop with two decades of
+cybersecurity behind it. I run a full self-hosted fleet on consumer Intel Arc GPUs:
+local model serving, a shared brain that remembers across every tool, autonomous
+agents, and a live control dashboard — then open-source the pieces worth sharing.
+Security-first, production-minded, always building something new.
 
-**[sentinel-cli](https://github.com/dirtysouthalpha/sentinel-cli)** — One AI coding-agent engine,
-four faces: terminal UI, desktop GUI, headless CLI, and MCP server. Runs against any cloud or
-local model, with real tools and git-backed undo.
+### 🔦 Featured
 
-**[msptier3toolkit](https://github.com/dirtysouthalpha/msptier3toolkit)** — Battle-tested
-PowerShell toolkit for MSP / service-desk technicians: diagnostics, AD/M365 tasks, and repair
-scripts pulled from real helpdesk work.
-
-### 🧰 Also in the mix
-- **[sentinel-windows](https://github.com/dirtysouthalpha/sentinel-windows)** — natural-language
-  Windows desktop automation (archived; folded into a newer build).
-- **[sentinel-cli-v2](https://github.com/dirtysouthalpha/sentinel-cli-v2)** — a leaner Python
-  research build of the coding agent.
+- **[intel-arc-llm-stack](https://github.com/dirtysouthalpha/intel-arc-llm-stack)** — run any LLM locally on Intel Arc. The stack I wish existed.
+- **[muse-maestro](https://github.com/dirtysouthalpha/muse-maestro)** — guardrails, memory & cost telemetry for Meta's Muse Code agent.
+- **[sentinel-cli](https://github.com/dirtysouthalpha/sentinel-cli)** — multi-provider AI coding agent with smart model routing.
+- **[intel-arc-llm-benchmarks](https://github.com/dirtysouthalpha/intel-arc-llm-benchmarks)** — real, production-tested inference numbers on the Arc B60.
+- **[msptier3toolkit](https://github.com/dirtysouthalpha/msptier3toolkit)** — battle-tested PowerShell from real MSP helpdesk ops.
 
 ### 🛠️ Working with
+
 `Intel Arc / Battlemage` · `llama.cpp` · `IPEX-LLM` · `Vulkan` · `Python` · `TypeScript` ·
 `PowerShell` · `MCP` · `local-first LLMs`
 
 ---
 
-*Interested in local LLM inference on Intel Arc? The stack and benchmark repos above are the best
-place to start — issues and PRs welcome.*
+<p align="center">
+  <a href="https://github.com/dirtysouthalpha"><img src="https://img.shields.io/badge/GitHub-dirtysouthalpha-22D3EE?style=flat-square&labelColor=0A0A0F&logo=github" alt="GitHub"></a>
+  <img src="https://img.shields.io/badge/focus-self--hosted%20AI-22D3EE?style=flat-square&labelColor=0A0A0F" alt="self-hosted AI">
+  <img src="https://img.shields.io/badge/built%20with-security--first-8B5CF6?style=flat-square&labelColor=0A0A0F" alt="security-first">
+</p>
+
+<p align="center"><sub>Every repo shares one visual identity — the <a href="BRAND.md">AURORA-X neon brand kit</a>.</sub></p>
