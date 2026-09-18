@@ -39,6 +39,18 @@ New here? **[Start with intel-arc-llm-stack](https://github.com/dirtysouthalpha/
 
 ---
 
+### 👤 Creator
+
+**Brandon Goolsby** (he/him) — Senior AI Engineer with a 20+ year cybersecurity background.
+Security+ · ISC2 CC · CCNA-level · SonicWall SNSA. I build autonomous AI systems and run a
+full self-hosted fleet on budget Intel Arc hardware — then open-source the parts worth sharing.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brandongoolsby-706/"><img src="https://img.shields.io/badge/LinkedIn-Brandon%20Goolsby-22D3EE?style=flat-square&labelColor=0A0A0F&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
+---
+
 <p align="center">
   <a href="https://github.com/dirtysouthalpha"><img src="https://img.shields.io/badge/GitHub-dirtysouthalpha-22D3EE?style=flat-square&labelColor=0A0A0F&logo=github" alt="GitHub"></a>
   <img src="https://img.shields.io/badge/focus-self--hosted%20AI-22D3EE?style=flat-square&labelColor=0A0A0F" alt="self-hosted AI">
