@@ -22,11 +22,15 @@ Security-first, production-minded, always building something new.
 
 ### 🔦 Featured
 
-- **[intel-arc-llm-stack](https://github.com/dirtysouthalpha/intel-arc-llm-stack)** — run any LLM locally on Intel Arc. The stack I wish existed.
-- **[muse-maestro](https://github.com/dirtysouthalpha/muse-maestro)** — guardrails, memory & cost telemetry for Meta's Muse Code agent.
-- **[sentinel-cli](https://github.com/dirtysouthalpha/sentinel-cli)** — multi-provider AI coding agent with smart model routing.
-- **[intel-arc-llm-benchmarks](https://github.com/dirtysouthalpha/intel-arc-llm-benchmarks)** — real, production-tested inference numbers on the Arc B60.
-- **[msptier3toolkit](https://github.com/dirtysouthalpha/msptier3toolkit)** — battle-tested PowerShell from real MSP helpdesk ops.
+New here? **[Start with intel-arc-llm-stack](https://github.com/dirtysouthalpha/intel-arc-llm-stack)** — run any LLM locally on Intel Arc.
+
+| Repo | What it does | Why you care |
+|------|--------------|--------------|
+| [intel-arc-llm-stack](https://github.com/dirtysouthalpha/intel-arc-llm-stack) | Run any LLM locally on Intel Arc GPUs | Skip the NVIDIA tax — real local inference on budget hardware |
+| [muse-maestro](https://github.com/dirtysouthalpha/muse-maestro) | Guardrails, memory & cost telemetry for Meta Muse Code | Keep coding agents safe, cheap, and observable |
+| [sentinel-cli](https://github.com/dirtysouthalpha/sentinel-cli) | Multi-provider AI coding agent with smart model routing | One agent, 9+ providers, cheapest-capable routing |
+| [intel-arc-llm-benchmarks](https://github.com/dirtysouthalpha/intel-arc-llm-benchmarks) | Measured Arc B60 inference numbers | Real tok/s and quant recipes, not vendor claims |
+| [msptier3toolkit](https://github.com/dirtysouthalpha/msptier3toolkit) | Battle-tested MSP PowerShell | Automation from real helpdesk trenches |
 
 ### 🛠️ Working with
 
@@ -40,5 +44,7 @@ Security-first, production-minded, always building something new.
   <img src="https://img.shields.io/badge/focus-self--hosted%20AI-22D3EE?style=flat-square&labelColor=0A0A0F" alt="self-hosted AI">
   <img src="https://img.shields.io/badge/built%20with-security--first-8B5CF6?style=flat-square&labelColor=0A0A0F" alt="security-first">
 </p>
+
+<p align="center">⭐ Star the repos that help, and <a href="https://github.com/dirtysouthalpha">follow @dirtysouthalpha</a> — new self-hosted AI tools ship regularly.</p>
 
 <p align="center"><sub>Every repo shares one visual identity — the <a href="BRAND.md">AURORA-X neon brand kit</a>.</sub></p>
