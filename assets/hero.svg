@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" role="img" aria-label="DIRTY SOUTH ALPHA — Self-hosted AI, Security-first, Always innovating">
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="uline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="blobC" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobV" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="46"/></filter>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="7"/></filter>
+    <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse">
+      <path d="M46 0H0V46" fill="none" stroke="#22D3EE" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <clipPath id="wmclip">
+      <text x="60" y="196" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="86" font-weight="800" letter-spacing="-1">DIRTY SOUTH ALPHA</text>
+    </clipPath>
+  </defs>
+
+  <rect width="1280" height="340" fill="#05060b"/>
+  <rect width="1280" height="340" fill="url(#grid)"/>
+
+  <!-- aurora -->
+  <g filter="url(#soft)">
+    <ellipse cx="180" cy="70" rx="260" ry="200" fill="url(#blobC)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 60 40; 0 0" dur="19s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="1080" cy="300" rx="300" ry="230" fill="url(#blobV)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -50 -30; 0 0" dur="23s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="720" cy="60" rx="220" ry="160" fill="url(#blobC)" opacity="0.5">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -40 30; 0 0" dur="27s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- right-side constellation -->
+  <g stroke="#22D3EE" stroke-opacity="0.35" stroke-width="1" fill="#bfefff">
+    <line x1="980" y1="120" x2="1060" y2="90"/><line x1="1060" y1="90" x2="1120" y2="150"/>
+    <line x1="1120" y1="150" x2="1050" y2="200"/><line x1="1050" y1="200" x2="980" y2="120"/>
+    <line x1="1060" y1="90" x2="1150" y2="70"/>
+    <g fill="#bfefff">
+      <circle cx="980" cy="120" r="3"><animate attributeName="fill-opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="1060" cy="90" r="3.5"><animate attributeName="fill-opacity" values="1;0.4;1" dur="3.6s" repeatCount="indefinite"/></circle>
+      <circle cx="1120" cy="150" r="3"><animate attributeName="fill-opacity" values="0.5;1;0.5" dur="2.8s" repeatCount="indefinite"/></circle>
+      <circle cx="1050" cy="200" r="2.6"><animate attributeName="fill-opacity" values="1;0.5;1" dur="4.1s" repeatCount="indefinite"/></circle>
+      <circle cx="1150" cy="70" r="2.4"><animate attributeName="fill-opacity" values="0.6;1;0.6" dur="3.3s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+
+  <!-- eyebrow -->
+  <circle cx="70" cy="86" r="5" fill="#22D3EE">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="86" y="92" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="17" letter-spacing="7" fill="#9AA0BD">SELF-HOSTED AI FLEET</text>
+
+  <!-- wordmark -->
+  <text x="60" y="196" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="86" font-weight="800" letter-spacing="-1" fill="url(#brand)" filter="url(#glow)" opacity="0.55">DIRTY SOUTH ALPHA</text>
+  <text x="60" y="196" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="86" font-weight="800" letter-spacing="-1"><tspan fill="#EEF0FA">DIRTY SOUTH </tspan><tspan fill="url(#brand)">ALPHA</tspan></text>
+  <g clip-path="url(#wmclip)">
+    <rect x="0" y="120" width="240" height="90" fill="url(#sheen)">
+      <animateTransform attributeName="transform" type="translate" values="-300 0; 1200 0" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- underline + tagline -->
+  <rect x="62" y="222" width="300" height="3" rx="1.5" fill="url(#uline)"/>
+  <text x="64" y="256" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="20" letter-spacing="3" fill="#9AA0BD">Self-hosted AI  ·  Security-first  ·  Always innovating</text>
+
+  <!-- corner brackets -->
+  <g stroke="#22D3EE" stroke-opacity="0.5" stroke-width="2" fill="none">
+    <path d="M24 44V24H44"/><path d="M1256 44V24H1236"/>
+    <path d="M24 296V316H44"/><path d="M1256 296V316H1236"/>
+  </g>
+</svg>

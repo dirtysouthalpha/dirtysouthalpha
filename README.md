@@ -1,62 +1,64 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="DIRTY SOUTH ALPHA — Self-hosted AI · Security-first · Always innovating">
+  <img src="assets/hero.svg" alt="DIRTY SOUTH ALPHA — Self-hosted AI · Security-first · Always innovating" width="100%">
 </p>
 
 <p align="center">
-  <strong>Self-hosted AI. Security-first. Always innovating.</strong>
+  <a href="https://dirtysouthalpha.com"><img src="https://img.shields.io/badge/live-dirtysouthalpha.com-22D3EE?style=flat-square&labelColor=05060b"></a>
+  <img src="https://img.shields.io/badge/focus-self--hosted%20AI-22D3EE?style=flat-square&labelColor=05060b">
+  <img src="https://img.shields.io/badge/built-security--first-8B5CF6?style=flat-square&labelColor=05060b">
+  <a href="https://www.linkedin.com/in/brandongoolsby-706/"><img src="https://img.shields.io/badge/LinkedIn-Brandon%20Goolsby-8B5CF6?style=flat-square&labelColor=05060b&logo=linkedin"></a>
 </p>
 
 ---
 
-20+ years in cybersecurity, now running a self-hosted AI fleet on budget Intel Arc
-hardware — a memory brain, autonomous agents, local LLMs that actually ship. I
-open-source the good parts. Always innovating. Deep South.
+```
+> whoami
+```
 
-### 🧭 About
+20 years in the trenches of security. now i run a full self-hosted AI fleet on budget
+Intel Arc silicon — local models, autonomous agents, a memory brain. all of it mine,
+none of it in the cloud. the useful pieces ship here.
 
-**Dirty South Alpha** — a one-person AI infrastructure shop with two decades of
-cybersecurity behind it. I run a full self-hosted fleet on consumer Intel Arc GPUs:
-local model serving, a shared brain that remembers across every tool, autonomous
-agents, and a live control dashboard — then open-source the pieces worth sharing.
-Security-first, production-minded, always building something new.
+### `// the fleet`
 
-### 🔦 Featured
+- **Neuralis** — a persistent brain that remembers across every tool & agent. hybrid semantic + graph recall, self-correcting.
+- **Sentinel Prime** — autonomous desktop & fleet agents. goals in, work done — guardrails clamped on money & anything outbound.
+- **AURORA-X** — one glass pane over the fleet: voice, vision, live status, and a chat that drives real work.
+- **Maestro** — guardrails, memory & cost telemetry bolted onto coding agents.
+- **Intel Arc stack** — local LLM serving on Arc B60 / Battlemage. budget silicon, real throughput.
 
-New here? **[Start with intel-arc-llm-stack](https://github.com/dirtysouthalpha/intel-arc-llm-stack)** — run any LLM locally on Intel Arc.
+### `// featured`
 
-| Repo | What it does | Why you care |
-|------|--------------|--------------|
-| [intel-arc-llm-stack](https://github.com/dirtysouthalpha/intel-arc-llm-stack) | Run any LLM locally on Intel Arc GPUs | Skip the NVIDIA tax — real local inference on budget hardware |
-| [muse-maestro](https://github.com/dirtysouthalpha/muse-maestro) | Guardrails, memory & cost telemetry for Meta Muse Code | Keep coding agents safe, cheap, and observable |
-| [sentinel-cli](https://github.com/dirtysouthalpha/sentinel-cli) | Multi-provider AI coding agent with smart model routing | One agent, 9+ providers, cheapest-capable routing |
-| [intel-arc-llm-benchmarks](https://github.com/dirtysouthalpha/intel-arc-llm-benchmarks) | Measured Arc B60 inference numbers | Real tok/s and quant recipes, not vendor claims |
-| [msptier3toolkit](https://github.com/dirtysouthalpha/msptier3toolkit) | Battle-tested MSP PowerShell | Automation from real helpdesk trenches |
+| repo | what it does |
+|---|---|
+| **[intel-arc-llm-stack](https://github.com/dirtysouthalpha/intel-arc-llm-stack)** | run any LLM locally on Intel Arc. the stack i wish existed. |
+| **[muse-maestro](https://github.com/dirtysouthalpha/muse-maestro)** | guardrails, memory & cost telemetry for Meta's Muse Code agent. |
+| **[sentinel-cli](https://github.com/dirtysouthalpha/sentinel-cli)** | multi-provider AI coding agent with smart model routing. |
+| **[intel-arc-llm-benchmarks](https://github.com/dirtysouthalpha/intel-arc-llm-benchmarks)** | real, production-tested inference numbers on the Arc B60. |
+| **[msptier3toolkit](https://github.com/dirtysouthalpha/msptier3toolkit)** | battle-tested PowerShell from real MSP helpdesk ops. |
 
-### 🛠️ Working with
+### `// live`
 
-`Intel Arc / Battlemage` · `llama.cpp` · `IPEX-LLM` · `Vulkan` · `Python` · `TypeScript` ·
-`PowerShell` · `MCP` · `local-first LLMs`
+see it running — self-hosted AI you can actually touch:
+**[dirtysouthalpha.com](https://dirtysouthalpha.com)** → an interactive Neuralis brain, the AURORA-X control dashboard, and a Sentinel Prime autonomous run.
+
+### `// stack`
+
+![Intel Arc](https://img.shields.io/badge/Intel%20Arc-Battlemage-22D3EE?style=flat-square&labelColor=05060b)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-local-8B5CF6?style=flat-square&labelColor=05060b)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=05060b&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&labelColor=05060b&logo=typescript&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&labelColor=05060b&logo=powershell&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-wired-22D3EE?style=flat-square&labelColor=05060b)
+
+### `// creator`
+
+**Brandon Goolsby** (he/him) — Senior AI Engineer · 20+ years in cybersecurity.
+Security+ · ISC2 CC · CCNA-level · SonicWall SNSA. i build autonomous AI systems and
+open-source the parts worth sharing.
+
+<a href="https://www.linkedin.com/in/brandongoolsby-706/"><img src="https://img.shields.io/badge/connect%20on-LinkedIn-8B5CF6?style=for-the-badge&labelColor=05060b&logo=linkedin"></a>
 
 ---
 
-### 👤 Creator
-
-**Brandon Goolsby** (he/him) — Senior AI Engineer with a 20+ year cybersecurity background.
-Security+ · ISC2 CC · CCNA-level · SonicWall SNSA. I build autonomous AI systems and run a
-full self-hosted fleet on budget Intel Arc hardware — then open-source the parts worth sharing.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/brandongoolsby-706/"><img src="https://img.shields.io/badge/LinkedIn-Brandon%20Goolsby-22D3EE?style=flat-square&labelColor=0A0A0F&logo=linkedin" alt="LinkedIn"></a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/dirtysouthalpha"><img src="https://img.shields.io/badge/GitHub-dirtysouthalpha-22D3EE?style=flat-square&labelColor=0A0A0F&logo=github" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/focus-self--hosted%20AI-22D3EE?style=flat-square&labelColor=0A0A0F" alt="self-hosted AI">
-  <img src="https://img.shields.io/badge/built%20with-security--first-8B5CF6?style=flat-square&labelColor=0A0A0F" alt="security-first">
-</p>
-
-<p align="center">⭐ Star the repos that help, and <a href="https://github.com/dirtysouthalpha">follow @dirtysouthalpha</a> — new self-hosted AI tools ship regularly.</p>
-
-<p align="center"><sub>Every repo shares one visual identity — the <a href="BRAND.md">AURORA-X neon brand kit</a>.</sub></p>
+<p align="center"><sub><b>self-hosted AI</b> · <b>security-first</b> · <b>always innovating</b> — every repo shares one identity (<a href="BRAND.md">brand kit</a>)</sub></p>
